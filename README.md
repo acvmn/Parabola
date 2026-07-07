@@ -10,4 +10,5 @@ This repository contains files for a Windows program writen on C++ using WinAPI 
 **To get started, set the coefficients and click the button.**
 
 > The interface is simple and straightforward.
+
 ![alt Preview](preview.png)
